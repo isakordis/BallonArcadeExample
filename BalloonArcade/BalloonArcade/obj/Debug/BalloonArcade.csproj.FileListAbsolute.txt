@@ -1,0 +1,10 @@
+C:\Users\MSI\source\repos\BalloonArcade\BalloonArcade\bin\Debug\BalloonArcade.exe.config
+C:\Users\MSI\source\repos\BalloonArcade\BalloonArcade\bin\Debug\BalloonArcade.exe
+C:\Users\MSI\source\repos\BalloonArcade\BalloonArcade\bin\Debug\BalloonArcade.pdb
+C:\Users\MSI\source\repos\BalloonArcade\BalloonArcade\obj\Debug\BalloonArcade.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\BalloonArcade\BalloonArcade\obj\Debug\BalloonArcade.Form1.resources
+C:\Users\MSI\source\repos\BalloonArcade\BalloonArcade\obj\Debug\BalloonArcade.Properties.Resources.resources
+C:\Users\MSI\source\repos\BalloonArcade\BalloonArcade\obj\Debug\BalloonArcade.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\BalloonArcade\BalloonArcade\obj\Debug\BalloonArcade.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\BalloonArcade\BalloonArcade\obj\Debug\BalloonArcade.exe
+C:\Users\MSI\source\repos\BalloonArcade\BalloonArcade\obj\Debug\BalloonArcade.pdb
